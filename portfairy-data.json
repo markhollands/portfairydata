@@ -1,0 +1,4 @@
+{"artists": [{"name":"abc123", "bio": "testing 123", "url": "http://blah.com", "genre": "blah", "image_name": "test", "musician":1}],
+ "gigs":[{"name":"abc123", "starttime":"", "endtime":"", "venue":""}],
+ "venues":[{"name":"venue 1"}]
+}
