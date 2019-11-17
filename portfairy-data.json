@@ -1,4 +1,4 @@
 {"artists": [{"name":"abc123", "bio": "testing 123", "url": "http://blah.com", "genre": "blah", "image_name": "test", "musician":1}],
- "gigs":[{"name":"abc123", "starttime":"2020-03-01 10:00:00", "endtime":"2020-03-01 10:30:00", "venue":"venue 1", "artists":["abc123"]}],
+ "gigs":[{"name":"abc123", "starttime":"2020-03-01 10:00:00", "endtime":"2020-03-01 10:30:00", "venue":"venue 1", "artists":"abc123"}],
  "venues":[{"name":"venue 1"}]
 }
