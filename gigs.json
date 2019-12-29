@@ -1,0 +1,7 @@
+[{"name": "gig 1", "duration": 30, "starttime": 540, "venue": "Stage 1"},
+	{"name": "gig 2", "duration": 45, "starttime": 600, "venue": "Stage 1"},
+	{"name": "gig 3", "duration": 60, "starttime": 675, "venue": "Stage 1"},
+	{"name": "gig 5", "duration": 30, "starttime": 830, "venue": "Stage 1"},
+	{"name": "gig 4", "duration": 45, "starttime": 900, "venue": "Stage 1"},
+	{"name": "gig 9", "duration": 60, "starttime": 1000, "venue": "Stage 1"}
+]
