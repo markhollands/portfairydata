@@ -1,1 +1,1 @@
-[{"name":"Test 1 2 3","duration":30,"mins_from_start_of_day":495,"venue_order":2},{"name":"Gig 2","duration":45,"mins_from_start_of_day":660,"venue_order":2},{"name":"","duration":60,"mins_from_start_of_day":60,"venue_order":4}]
+[{"name_or_artist":"Test 1 2 3","duration":30,"mins_from_start_of_day":495,"venue_order":2},{"name_or_artist":"Gig 2","duration":45,"mins_from_start_of_day":660,"venue_order":2},{"name_or_artist":"testing","duration":60,"mins_from_start_of_day":60,"venue_order":4}]
